@@ -1,0 +1,19 @@
+{
+  "name": "1-absolute-value-sum-minimization",
+  "version": "1.0.0",
+  "description": "Given a sorted array of integers, find a integer x such that the value of abs(a[0]-x) + abs(arr[1]-x) + ..., is minimum, there could be more than one possibility, return the minimum of them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "100-algorithms-challange"
+  },
+  "author": "Rishu",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
